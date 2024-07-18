@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 I'm Brian Alcaraz
+_Bienvenidos a mi GitHub_  
+_Soy estudiante de la Tecnicatura Superior en Desarrollo de Software_  
+_Buscando grandes oportunidades que me den chances de crecer tanto personal como profesionalmente_  
+
 
 <!--
 **bnalcaraz/bnalcaraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
